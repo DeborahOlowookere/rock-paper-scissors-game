@@ -5,21 +5,18 @@ This is a simple and fun Rock, Paper, Scissors game built in Python for the comm
 Each round displays the selected emojis for both the user and the computer to add a fun visual element. After every round, the player is prompted to continue or exit the game.
 <br />
 
-<h2>Features</h2
-              
-- <b>Input validation to handle invalid choices <b>
+<h2>Features</h2>
 
+- <b>Input validation to handle invalid choices</b> 
 - <b>Emoji visuals for each move:
-
+  
   🪨 Rock
   
   📃 Paper
   
-  ✂️ Scissors<b>
-
-  <b>Random computer selection using Python's random module <b>
-
-- <b>Option to replay or exit after each round-<b>
+  ✂️ Scissors</b>
+- <b>Random computer selection using Python's random module</b>
+- <b>Option to replay or exit after each round</b>
 
 <h2>Languages and libraries Used</h2>
 
